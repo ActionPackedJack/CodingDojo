@@ -1,0 +1,26 @@
+$ ls -R
+HTML		Python		WebFundamentals	iOS
+MEAN		Ruby		commands.txt	netCore
+
+./HTML:
+Blog.html			Sup_Brah.html
+IndentationPractice.html	indentation.html
+RegistrationForm.html
+
+./MEAN:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./WebFundamentals:
+about.txt
+
+./iOS:
+about.txt
+
+./netCore:
+about.txt
