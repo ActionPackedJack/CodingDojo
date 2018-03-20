@@ -1,0 +1,16 @@
+mkdir gittest
+cd gittest
+git init
+git touch index.html
+git touch styles.css
+git touch aboutMe.txt
+git add .
+git commit -m”Initialized repository.”
+git open aboutMe.txt
+git add aboutMe.txt
+git commit -m”added favorite movie to aboutMe.”
+git log
+git revert c82bfdf7641de7d3292060eb61848d4233e4e653
+git open aboutMe.txt
+git add .
+git commit -m”Favorite book changed to favorite movie.”
