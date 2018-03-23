@@ -1,0 +1,22 @@
+var positive=12.7;
+var negative= -5803;
+var zero= 0;
+var lots= 576*420;
+
+var fella='Francois';
+var lady='Eleanor';
+var motto='Live hard or die scared';
+
+var yes=true;
+var no=false;
+
+var huh=undefined;
+
+console.log("First number:",positive)
+console.log("Second number:",negative)
+console.log("Third number:",zero)
+console.log("Last number:",lots)
+console.log("First string:",fella)
+console.log("Second string:",negative)
+console.log("Third string:",motto)
+console.log("ERROR: CANNOT PROCESS",huh)
