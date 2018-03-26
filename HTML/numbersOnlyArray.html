@@ -1,0 +1,29 @@
+<html>
+    <script>
+        function numbersOnlyArray(arr){
+            var result=[];
+            for(var i=0;i<arr.length;i++){
+                if (typeof arr[i]==="number"){
+                    result.push(arr[i])
+                }
+            }
+            return result;
+        }
+
+        numbersOnlyArray([1, "apple", -3, "orange", 0.5]);
+        
+        function NaNMustDie(arr){
+          for(var i=0;i<arr.length;i++){
+                if (typeof arr[i]!=="number"){
+                    var temp=arr[arr.length-1];
+                    arr[i]=temp;
+                    console.log(arr)
+                    arr.pop();
+                }
+            }
+            return arr;
+        }
+        
+        NaNMustDie([1, "apple", -3, "orange", 0.5])
+    </script>
+</html>
