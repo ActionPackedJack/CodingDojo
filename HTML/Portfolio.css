@@ -1,0 +1,114 @@
+*{
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+    }
+#wrapper{
+    margin:0;
+    vertical-align: top;
+    width:700px;
+    height: 1000px;
+    background: radial-gradient(grey,black)
+	}
+#header{
+	height:40px;
+	display: flex;
+	width:700px;
+	vertical-align: top;
+	align-items: center;
+	background-color: azure;
+	}
+#footer{
+	height:40px;
+	display: flex;
+	width:700px;
+	vertical-align: top;
+	align-items: center;
+	background-color: azure;
+}
+.miniheader{
+	display:block;
+	background: linear-gradient(white,grey,white);
+	font: Helvetica;
+	color: white;
+}
+.minifooter{
+	display:block;
+	background: linear-gradient(white,grey,white);
+	margin-top: 70px;
+	font: Helvetica;
+	color: white;
+	vertical-align:bottom;
+}
+.font1{
+	font-size: 20px;
+	text-align: left;
+	color: black;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.font2{
+	padding-left:290px;
+	font:Helvetica;
+	text-align: right;
+	font-size:15px;
+	color:black;
+}
+#profileborder{
+	border: 5px solid grey;
+	display: inline-block;
+}
+.infobox{
+	display: inline-block;
+	width:200px;
+	height:300px;
+	background: linear-gradient(to right, azure, grey);
+}
+.techbox{
+	display: inline-block;
+	width:200px;
+	height:150px;
+	background: linear-gradient(to right, azure, grey);
+}
+
+#aboutbox{
+	background: linear-gradient(to right, azure, grey);
+	height:200px;
+	width:300px;
+	font-size: 5px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left:20px;
+}
+#aboutbox h1{
+	height:30px;
+	font-size:20px;
+	font: Helvetica;
+}
+h3{
+	margin: 0px;
+	margin-top:10px;
+	display: inline-block;
+	padding: 0px;
+	vertical-align: bottom;
+}
+.techpic{
+	border-radius:50%;
+	width:36px;
+}
+.techbutton{
+	color: white;
+	width: 100px;
+	height: 35px;
+	border-radius: 1ch;
+	border-color: black;
+	font: helvetica;
+	border-width: 10px;
+	box-shadow: 10px 10px lightgray;
+	background-color: darkgreen;
+}

@@ -1,0 +1,155 @@
+*{
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	/* border: 0 none; */
+	outline: 0;
+	padding: 0;
+	margin: 0;
+    }
+#header{
+    background-color: black;
+    display: block;
+    color: white;
+    text-align: center;
+}
+#outerwrapper{
+    padding-top:30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 7px;
+    text-align: center;
+    width:700px;
+    height:820px;
+    background: black;
+    display: block;
+    vertical-align: top;
+}
+#companyname{
+    padding-left:10px;
+    display: inline-block;
+    float: left;
+    line-height: 50px;
+    font-size: 30px;
+}
+.linktop{
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    text-align: center;
+    font-size: 12px;
+}
+#innerwrapper{ 
+    width: 650px;
+    height: 660px;
+    background: white;
+    display: block;
+    vertical-align: top;
+    align: center;
+    padding: 20px;
+    padding-top:20px;
+}
+.featurebox{
+    width: 196px;
+    height: 200px;
+    background: blue;
+    color: white;
+    display: inline-block;
+}
+.wrenchpic{
+    float: left;
+    margin-top:5px;
+    margin-left: 8px;
+    background-color: white;
+    border-radius: 50%;
+    border-width: 0px;
+    border-color: blue;
+    border-style:solid;
+    display: inline-block;
+}
+.featuretitle{
+    float: left;
+    margin:10px;
+    font-size: 20px;
+    padding-right:10px;
+}
+.moreinfo{
+    background: linear-gradient(deepskyblue, cornflowerblue);
+    border-radius: 0.5ch;
+    color: white;
+    height: 35px;
+    width: 120px;
+    float: left;
+}
+#scarfacebox{
+    background-color: white;
+    color: black;
+    width: 195px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+#missionbox{
+    background-color: white;
+    margin-top:40px;
+    font-size: 10px;
+    color: black;
+    width: 195px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+#testimonialbox{
+    background-color: white;
+    color: black;
+    width: 195px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+#textarea{
+    font-style: italic;
+    background-color: powderblue;
+}
+#triangledown {
+    vertical-align: top;
+	width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 10px solid powderblue;
+}
+.linkbottom{
+    color: royalblue;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    text-align: center;
+    font-size: 12px;
+}
+#learnmore{
+    color: royalblue;
+    text-decoration: none;
+    font-size: 15px;
+    float: left;
+}
+#footer{
+    margin:0 auto;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 100px solid;
+    background-color: powderblue;
+    width: 700px;
+    height: 50px;
+    display: block;
+}

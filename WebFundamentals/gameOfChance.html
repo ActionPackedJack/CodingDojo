@@ -1,0 +1,19 @@
+<html>
+    <script>
+    function gameOfChance(quarters)
+    {
+        for(var i=quarters;i>0;i--){
+            var number = Math.floor(Math.random()*100)+1;
+            if(number===100)
+            {
+                console.log("Victory after " + (quarters-i) + " quarters!");
+                i+=Math.floor(Math.random()*50)+50;
+                return("You now posess "+i+ " quarters.")
+            }
+        }
+        return("You are awful at luck-having.")
+    }
+    gameOfChance(100)
+
+    </script>
+</html>

@@ -1,0 +1,18 @@
+<html>
+    <script>function fancyArray(arr, separator, reversed){
+            if(!reversed){
+              for(var i=0;i<arr.length;i++){
+                console.log(i + " " + separator + " " + arr[i]);
+              }
+            }
+            else{
+              for(var j=arr.length-1;j>=0;j--){
+                console.log(j + " " + separator + " " + arr[j]);
+              }
+            }
+          }
+          
+          fancyArray([ "James", "Jill", "Jane", "Jack" ], "->", true);
+          
+          </script>
+</html>
