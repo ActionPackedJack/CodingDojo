@@ -1,0 +1,98 @@
+
+<html>
+    <head>
+        <script type= "text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type= "text/javascript">
+            $(document).ready(function(){
+                //first function
+                $('#firstbutton').hide();
+                $('#secondbutton').hide();
+                $('#guess').hide();
+                $('.wrong').hide();
+                $('h2').hide();
+                $('h3').hide();
+                
+                $('h1').click(function(){
+                    $('#firstbutton').show()
+                })
+                $(document).on("click","p",function(){
+                    $("h3").slideToggle("600")
+                   
+                })
+                $(document).on("click","h3",function(){
+                    $("h3").html;
+                })
+                $('#firstbutton').click(function(){
+                    $('#secondbutton').slideDown(duration='slow');
+                })
+
+                // if ( $( "#secondbutton" ).is( ":hidden" ) ) {
+                // $( "#secondbutton" ).slideDown( "slow" );
+                
+                $('#secondbutton').click(function(){
+                    $('#guess').fadeIn();
+                    $('#right').fadeIn();    
+                    $('#wrong1').fadeIn();
+                    $('#wrong2').fadeIn();  
+                    $('#wrong3').fadeIn();  
+                    $('#wrong4').fadeIn();  
+                    $('#wrong5').fadeIn();  
+                    $('#wrong6').fadeIn();                                   
+                })
+
+                $('#right').click(function(){
+                    $(this).after("<p>Very astute! Now keep clicking.</p>");
+                    $('#wrong1').slideUp();
+                    $('#wrong2').slideUp();
+                    $('#wrong3').slideUp();
+                    $('#wrong4').slideUp();
+                    $('#wrong5').slideUp();
+                    $('#wrong6').slideUp();
+                })
+                $('#wrong1').click(function(){
+                    $('#wrong1').append('WRONG!!!');
+                })
+                $('#wrong2').click(function(){
+                    $('#wrong2').append('WRONG!!!');
+                })
+                $('#wrong3').click(function(){
+                    $('#wrong3').append('WRONG!!!');
+                })
+                $('#wrong4').click(function(){
+                    $('#wrong4').append('WRONG!!!');
+                })
+                $('#wrong5').click(function(){
+                    $('#wrong5').append('WRONG!!!');
+                })
+                $('#wrong6').click(function(){
+                    $('#wrong6').prepend( "Are you blind? I JUST said " )
+                })
+                $('h3').click(function(){
+                    $(this).html();
+                    
+                })
+                 $( "h3" ).click(function() {
+                     $( this ).text( $( this ).html() );
+                 });
+            })
+        </script>
+    </head>
+<body>
+<h1>Click here.</h1>
+<button id='firstbutton'>Now click here.</button>
+<div id='secondbutton'><button>Good.  Now here.</button></div>
+<div class="maybe">
+    <ul id="guess">
+        <li id="right">Where should you click next?</li>
+        <li id="wrong1">Should you click here?</li>
+        <li id="wrong2">How about here?</li>
+        <li id="wrong3">Or maybe here?</li>
+        <li id="wrong4">This one looks promising.</li>
+        <li id="wrong5">Then again, so does this one.</li>
+        <li id="wrong6">Definitely not this one though.</li>
+    </ul>
+</div>
+<div><h3 font size="300">OH NO! <i>Too much clicking!</i>  If you click this, <strong>reality will unravel!</strong></h3>
+</div>
+</body>
+</html>
