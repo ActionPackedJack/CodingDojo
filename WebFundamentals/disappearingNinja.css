@@ -1,0 +1,25 @@
+*{
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+    }
+    .ninja{
+        width:200px;
+        background-color:whitesmoke;
+    }
+    #warriors{
+        vertical-align: top;
+    }
+    #button{
+		padding: 20px;
+		border: 10px;
+        background-color: red;
+		color: whitesmoke;
+		float:  bottom;
+    }
