@@ -3,5 +3,3 @@ me={"name": "Honorable General Toshiro Akahana", "country of birth":"the Forbidd
 def extrapolate_dictionary(dict):
     for key,data in dict.items():
         print "My "+key+" is "+ data + "."
-
-extrapolate_dictionary(me)
