@@ -9,7 +9,7 @@ def openpage():
 def openProjects():
     return render_template('ninja.html')
 
-@app.route('/dojos/new')
+@app.route('/dojos/new' )
 def openAbout():
     return render_template('dojos.html')
 
