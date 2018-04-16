@@ -1,0 +1,19 @@
+Launch virtual environment by navigating to the folder that contains the environment and running terminal command:
+source djangoEnv/bin/activate
+Navigate that same terminal window into the place where you want the project folder to be.
+django-admin startproject THE NAME OF YOUR PROJECT
+Navigate to that folder
+mkdir apps
+Create an app by navigating to apps and running:
+python ..manage.py startapp THE NAME OF YOUR APP
+If you make an app, navigate to the subfolder with the same name as your project and open settings.py  Find the list of INSTALLED APPS =[], and add ‘apps.THENAMEOFYOURAPP’ to that list.
+When you’re ready to launch your app, navigate a terminal window to the top folder with your project’s name and run…
+python manage.py runserver
+…then open a browser window to…
+localhost:8000
+You can stop the server by pressing ctrl-C.
+If you made any apps, go to their subfolder in your apps folder and touch urls.py
+Open that urls.py file and add import url to the top line after “from django”
+Then, on the next line, make sure it says “from . import views”
+
+
