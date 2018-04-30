@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/bin/Debug/netcoreapp2.0/1to255.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/bin/Debug/netcoreapp2.0/1to255.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/bin/Debug/netcoreapp2.0/1to255.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/bin/Debug/netcoreapp2.0/1to255.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/bin/Debug/netcoreapp2.0/1to255.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/obj/Debug/netcoreapp2.0/1to255.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/obj/Debug/netcoreapp2.0/1to255.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/obj/Debug/netcoreapp2.0/1to255.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/obj/Debug/netcoreapp2.0/1to255.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to255/obj/Debug/netcoreapp2.0/1to255.pdb

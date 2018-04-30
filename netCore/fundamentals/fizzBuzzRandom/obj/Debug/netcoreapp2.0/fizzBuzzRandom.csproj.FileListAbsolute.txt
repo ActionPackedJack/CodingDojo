@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/obj/Debug/netcoreapp2.0/fizzBuzzRandom.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/obj/Debug/netcoreapp2.0/fizzBuzzRandom.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/obj/Debug/netcoreapp2.0/fizzBuzzRandom.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/bin/Debug/netcoreapp2.0/fizzBuzzRandom.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/bin/Debug/netcoreapp2.0/fizzBuzzRandom.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/bin/Debug/netcoreapp2.0/fizzBuzzRandom.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/bin/Debug/netcoreapp2.0/fizzBuzzRandom.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/bin/Debug/netcoreapp2.0/fizzBuzzRandom.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/obj/Debug/netcoreapp2.0/fizzBuzzRandom.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzRandom/obj/Debug/netcoreapp2.0/fizzBuzzRandom.pdb

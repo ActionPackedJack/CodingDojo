@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/obj/Debug/netcoreapp2.0/fizzBuzzAlternate.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/obj/Debug/netcoreapp2.0/fizzBuzzAlternate.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/obj/Debug/netcoreapp2.0/fizzBuzzAlternate.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/bin/Debug/netcoreapp2.0/fizzBuzzAlternate.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/bin/Debug/netcoreapp2.0/fizzBuzzAlternate.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/bin/Debug/netcoreapp2.0/fizzBuzzAlternate.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/bin/Debug/netcoreapp2.0/fizzBuzzAlternate.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/bin/Debug/netcoreapp2.0/fizzBuzzAlternate.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/obj/Debug/netcoreapp2.0/fizzBuzzAlternate.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzBuzzAlternate/obj/Debug/netcoreapp2.0/fizzBuzzAlternate.pdb

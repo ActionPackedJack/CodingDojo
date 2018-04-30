@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/bin/Debug/netcoreapp2.0/1to100divisible.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/bin/Debug/netcoreapp2.0/1to100divisible.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/bin/Debug/netcoreapp2.0/1to100divisible.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/bin/Debug/netcoreapp2.0/1to100divisible.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/bin/Debug/netcoreapp2.0/1to100divisible.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/obj/Debug/netcoreapp2.0/1to100divisible.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/obj/Debug/netcoreapp2.0/1to100divisible.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/obj/Debug/netcoreapp2.0/1to100divisible.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/obj/Debug/netcoreapp2.0/1to100divisible.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/1to100divisible/obj/Debug/netcoreapp2.0/1to100divisible.pdb

@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/obj/Debug/netcoreapp2.0/fizzbuzz.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/obj/Debug/netcoreapp2.0/fizzbuzz.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/obj/Debug/netcoreapp2.0/fizzbuzz.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/bin/Debug/netcoreapp2.0/fizzbuzz.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/bin/Debug/netcoreapp2.0/fizzbuzz.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/bin/Debug/netcoreapp2.0/fizzbuzz.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/bin/Debug/netcoreapp2.0/fizzbuzz.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/bin/Debug/netcoreapp2.0/fizzbuzz.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/obj/Debug/netcoreapp2.0/fizzbuzz.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/fundamentals/fizzbuzz/obj/Debug/netcoreapp2.0/fizzbuzz.pdb
