@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/bin/Debug/netcoreapp2.0/boxing_unboxing.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/bin/Debug/netcoreapp2.0/boxing_unboxing.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/bin/Debug/netcoreapp2.0/boxing_unboxing.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/bin/Debug/netcoreapp2.0/boxing_unboxing.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/bin/Debug/netcoreapp2.0/boxing_unboxing.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/obj/Debug/netcoreapp2.0/boxing_unboxing.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/obj/Debug/netcoreapp2.0/boxing_unboxing.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/obj/Debug/netcoreapp2.0/boxing_unboxing.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/obj/Debug/netcoreapp2.0/boxing_unboxing.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/boxing_unboxing/obj/Debug/netcoreapp2.0/boxing_unboxing.pdb
