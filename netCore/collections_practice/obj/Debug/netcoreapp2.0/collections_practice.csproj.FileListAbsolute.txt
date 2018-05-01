@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.pdb
