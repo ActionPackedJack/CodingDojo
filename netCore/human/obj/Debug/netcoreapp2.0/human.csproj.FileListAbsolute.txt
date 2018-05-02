@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/bin/Debug/netcoreapp2.0/human.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/bin/Debug/netcoreapp2.0/human.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/bin/Debug/netcoreapp2.0/human.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/bin/Debug/netcoreapp2.0/human.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/bin/Debug/netcoreapp2.0/human.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/obj/Debug/netcoreapp2.0/human.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/obj/Debug/netcoreapp2.0/human.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/obj/Debug/netcoreapp2.0/human.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/obj/Debug/netcoreapp2.0/human.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/human/obj/Debug/netcoreapp2.0/human.pdb
