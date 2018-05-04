@@ -1,0 +1,10 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/bin/Debug/netcoreapp2.0/calling_card.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/bin/Debug/netcoreapp2.0/calling_card.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/bin/Debug/netcoreapp2.0/calling_card.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/obj/Debug/netcoreapp2.0/calling_card.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/obj/Debug/netcoreapp2.0/calling_card.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/calling_card/obj/Debug/netcoreapp2.0/calling_card.pdb
