@@ -1,0 +1,28 @@
+
+@model Woods.Models.Trail
+<h1>Trails!</h1>
+        <table>
+        <thead>
+        <th>Trail name</th>
+        <th>Length</th>
+        <th>Elevation Change</th>
+        </thead>
+        <br>
+        @foreach(var trail in ViewBag.woods){
+        <tr>
+            <td><a href="/show/@trail.id">@trail.Name</a></td>
+            <td>@trail.Length</td>
+            <td>@trail.Elevation</td>
+        </tr><br>
+        }
+        </table>
+    
+
+
+<h2>Expand our database!</h2>
+<form method="POST" action="/Add">
+    Trail Name:<input asp-for="Name"><br>
+    Length (Miles):<input asp-for="Length"><br>
+    Elevation Change:<input asp-for="Elevation"><br>
+    <input type="submit">
+</form>

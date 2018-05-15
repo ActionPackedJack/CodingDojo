@@ -1,0 +1,11 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/obj/Debug/netcoreapp2.0/Woods.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/obj/Debug/netcoreapp2.0/Woods.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/obj/Debug/netcoreapp2.0/Woods.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/bin/Debug/netcoreapp2.0/Woods.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/bin/Debug/netcoreapp2.0/Woods.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/bin/Debug/netcoreapp2.0/Woods.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/bin/Debug/netcoreapp2.0/Woods.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/bin/Debug/netcoreapp2.0/Woods.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/obj/Debug/netcoreapp2.0/Woods.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/obj/Debug/netcoreapp2.0/Woods.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/Woods/obj/Debug/netcoreapp2.0/Woods.csprojResolveAssemblyReference.cache
