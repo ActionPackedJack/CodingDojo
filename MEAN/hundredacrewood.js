@@ -1,0 +1,13 @@
+var winniethepooh= {character:"Winnie the Pooh", south: tigger};
+var tigger = { character: "Tigger", north: winniethepooh};
+var piglet = {character:"Piglet"};
+var christopherrobin = {character:"Christopher Robin"};
+var heffaslump = {character:"Heffalumps"};
+var bees = {character:"bees"};
+var kanga= {character: "Kanga"};
+var owl = {character: "Owl"};
+var gopher= {character: "Gopher"};
+var eeyore= {character: "Eeyore"};
+var rabbit= {character: "Rabbit"};
+winniethepooh.north=christopherrobin;
+console.log(tigger.north.north);
