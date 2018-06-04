@@ -1,0 +1,52 @@
+:<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <script>
+        function ninja(name){
+            this.name=name;
+            this.health=100;
+            var speed = 3;
+            var strength = 3;
+            this.eatrice= function(){
+                this.health+=10;
+            }
+            this.getspeed= function(){
+                return speed;
+            }
+            this.getstrength= function(){
+                return strength;
+            }
+            this.sayname= function(){
+                console.log("You sense the presence of " +name + ".");
+            }
+            this.showstats= function(){
+                console.log("Name: " + name, "Health: " + this.health, "Speed:" + this.getspeed(), "Strength: " + this.getstrength());
+            }
+            this.punch = function(target){
+                target.health-=5;
+                console.log(target.name + " was punched by " + this.name + " and lost 5 health!");
+            }
+            this.kick = function(target){
+                var damage=3*this.getstrength();
+                target.health-=damage;
+                console.log(target.name + " was kicked by " + this.name + " and lost " + damage + " health!");
+            }
+        }
+        var Rikimaru= new ninja("Rikimaru");
+        Rikimaru.sayname();
+        Rikimaru.eatrice();
+        Rikimaru.showstats();
+        var Onikage = new ninja("Onikage");
+        Rikimaru.punch(Onikage);
+        Onikage.kick(Rikimaru);
+    </script>
+</body>
+</html>
