@@ -11,37 +11,54 @@ function bst() {
             return;
         }
        // console.log ("YES")
-        current = this.root;
+        var current = this.root;
         //console.log (current);
-        while (true) {
+        while (current) {
             if (val > current.value) {
                 if (current.right) {
-                    //console.log("moving right");
+                    console.log(current.value);
+                    console.log("moving right");
                     current = current.right;
                 }
                 else {
-                    //console.log ("adding right");
+                    console.log ("adding " right" + val);
                     current.right = new node(val);
                     return;
                 }
             }
             if (val < current.value) {
                 if (current.left) {
-                    //console.log("moving left");
+                    console.log("moving left from  " +current.value + " to " +current.left.value);
                     current=current.left;
                 }
                 else {
-                    console.log ("adding left");
+                    console.log ("adding" + val + "to the left of " + current.value);
                     current.left = new node(val);
                 }   
             }
-            return this;
+            return ;
         }
     }
-}
+    this.preorder= function (current=this.root){
+        
+        console.log(current.value);
+            if(current.left){
+                console.log("moving left");
+                this.preorder(current.left);
+            }
+            if(current.right){
+                console.log("moving right");
+                this.preorder(current.right);
+            }
+            return;            
+        }
+    }
+
 
 var tree = new bst();
-tree.insert(12);
-tree.insert(17);
-tree.insert(7);
-console.log(tree);
+tree.insert(40);
+tree.insert(20);
+tree.insert(25);
+tree.insert(50);
+// console.log(tree);
+// tree.preorder();
