@@ -21,7 +21,7 @@ function bst() {
                     current = current.right;
                 }
                 else {
-                    console.log ("adding " right" + val);
+                    console.log ("adding " + val  + " to the right");
                     current.right = new node(val);
                     return;
                 }
