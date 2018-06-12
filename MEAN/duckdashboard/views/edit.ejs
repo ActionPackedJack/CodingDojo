@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Changing a duck?</title>
+</head>
+<body>
+    <h1>Now editing <%= duck.name %></h1>
+    <form action= "/ducks/edit/<%= duck.id %>" method="POST">
+        New name: <input name= "name" type="text"><br>  
+        New cuteness: <input name= "cuteness" type= "number"><br>
+        New awkwardness: <input name= "awkwardness" type= "number"><br>
+        <input type="submit" value="Here is my actual duck!">
+    </form>
+</body>
+</html>
