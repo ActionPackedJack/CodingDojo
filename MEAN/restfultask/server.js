@@ -11,6 +11,7 @@ const tasks = mongoose.model('tasks', taskSchema);
 var express = require('express');
 var app = express();
 app.use(bodyParser.json());
+app.use(express.static( __dirname + '/helloAngular/dist/helloAngular' ));
 app.get('/', function(req, res){
     tasks.find({}, function(err, tasks){
         if(err){
