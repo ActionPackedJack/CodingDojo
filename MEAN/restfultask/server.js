@@ -12,7 +12,8 @@ var express = require('express');
 var app = express();
 app.use(bodyParser.json());
 app.use(express.static( __dirname + '/helloAngular/dist/helloAngular' ));
-app.get('/', function(req, res){
+app.get('/tasks/', function(req, res){
+    console.log("LISTING ALL TASKS...")
     tasks.find({}, function(err, tasks){
         if(err){
            console.log("Returned error", err);
@@ -20,12 +21,14 @@ app.get('/', function(req, res){
            res.json({message: "Error", error: err})
         }   
         else {
+            console.log("TASKS PROBABLY LISTED")
             // respond with JSON
-           res.json({message: "Success", data: tasks})
+           res.json({message: "Success", tasks: tasks})
         }
     })
 })
-app.post('/new/:title/:description/:completed', function(req,res){
+app.get('/new/:title/:description/:completed', function(req,res){
+    console.log("ADDING NEW TASK...")
     var newtask= new tasks({
         title: req.params.title,
         description: req.params.description,
@@ -49,7 +52,7 @@ app.put('/edit/:id/:title/:description/:completed', function(req,res){
     })
     res.redirect('/')
 })
-app.get('/:id', function(req, res){
+app.get('/task/:id', function(req, res){
     console.log(req);
     tasks.find({_id:req.params.id}, function(err, scrutinized){
     console.log("HERE IS THE QUESTIONED TASK: ", scrutinized);
