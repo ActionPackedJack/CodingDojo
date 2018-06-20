@@ -3,7 +3,12 @@
   <h1>
     Welcome to Restful Tasks!
   </h1>
+  <button (click)="getTasksFromService()">Click to see your tasks</button>
 </div>
-<h2>Here are your tasks: {{task}}</h2>
-<p *ngFor ="let task of tasks">{{task.title }}</p>
+<h2>Here are your tasks:</h2>
+<p *ngFor ="let task of tasks">{{task.title}} <button (click)= "viewTask(task._id)">Show details</button></p>
 
+<!-- <div *ngIf="chosentask!=undefined"> -->
+  <h2>{{chosentask.data.title}}</h2>
+  <p>{{chosentask.data.description}}</p>
+<!-- </div> -->

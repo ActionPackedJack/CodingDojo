@@ -53,8 +53,10 @@ app.put('/edit/:id/:title/:description/:completed', function(req,res){
     res.redirect('/')
 })
 app.get('/task/:id', function(req, res){
-    console.log(req);
-    tasks.find({_id:req.params.id}, function(err, scrutinized){
+    //console.log(req);
+    console.log("TASK REQUEST RECEIVED")
+    console.log(req.params.id);
+    tasks.findOne({_id:req.params.id}, function(err, scrutinized){
     console.log("HERE IS THE QUESTIONED TASK: ", scrutinized);
     res.json({message: "success", data: scrutinized})
 })})

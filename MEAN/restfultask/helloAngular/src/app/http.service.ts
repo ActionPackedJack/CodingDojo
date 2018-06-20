@@ -15,5 +15,10 @@ export class HttpService {
     // // subscribe to the Observable and provide the code we would like to do with our data from the response
     // tempObservable.subscribe(data => console.log("Got our tasks!", data));
     return this._http.get('/tasks/');
- }   
+ }
+ viewTask(id){
+   console.log("HERE IS THE REQUESTED ID")
+   console.log(id);
+   return this._http.get('/task/'+id)
+ }
 } 
