@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form</title>
+</head>
+<body>
+    <h1>Survey Time!</h1>
+    <form method = "POST" action="/posted">
+        Your name: <input type = "text" name="Name"><br>
+        Campus: <select name = "Campus">
+            <option value="Chicago">Chicago</option>
+            <option value="Washington">Washington</option>
+            <option value="Herzegovina">Herzegovina</option>
+            <option value="Pyongyang">Pyongyang</option>
+            <option value="Gaul">Gaul</option>
+            <option value="Atlantis">Atlantis</option>
+        </select><br>
+        Favorite Language: <select name = "Language">
+            <option value="Javascript">Javascript</option>
+            <option value="C#">C#</option>
+            <option value="Python">Python</option>
+            <option value="Love">The Universal Language of Love</option>      
+        </select><br>   
+        Comments: <input type = "textarea" name = "Comments"><br>
+        <input type = "submit" name = "Submit">
+    </form>
+</body>
+</html> 

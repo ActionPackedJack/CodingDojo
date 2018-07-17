@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <h2>Add a trip</h2>
+        <form action="/create" method="POST">
+            {% csrf_token %}
+            <div class="input-field col s12">
+                <label for="destination">Destination:</label>
+                <input type="destination" id='destination' class='destination' name='destination'>
+            </div>
+            <div class="input-field col s12">
+                <input type="description" id='description' class="description" name='description'>
+                <label for="description">Description:</label>
+            </div>
+            <div class="input-field col s12">
+                    <input type="description" id='description' class="description" name='description'>
+                    <label for="description">Description:</label>
+            </div>
+            <div class="input-field col s12">
+                    <input type="date" id='travel_from' class="validate" name='travel_from'>
+                    <label for="travel_from">Travel Date From:</label>
+            </div>
+            <div class="input-field col s12">
+                    <input type="date" id='travel_to' class="validate" name='travel_to'>
+                    <label for="travel_to">Travel Date To:</label>
+            </div>
+            <input type="submit" value="Login" class="waves-effect waves-light btn">
+        </form><br>
+</body>
+</html>

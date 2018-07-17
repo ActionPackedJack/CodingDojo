@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>{{travel.destination}}</h1>
+    <h2>Planned by: {{travel.creator}}</h2>
+    <h2>Departure: {{travel.travel_from}}</h2>
+    <h2>Return: {{travel.travel_to}}</h2>
+    <h1>Other users joining this trip:</h1>
+    {%for user in travel.travelers.all%}
+    <p>{{user.first_name}} {{user.last_name}}</p>
+    {% endfor %}
+</body>
+</html>

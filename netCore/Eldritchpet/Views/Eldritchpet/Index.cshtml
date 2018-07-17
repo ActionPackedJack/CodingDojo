@@ -1,0 +1,47 @@
+<html>
+    <head>
+<script type= "text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#FeedButton').submit(function(e){
+            e.preventDefault();
+
+        })
+    })
+</script>
+@{Layout = "_Layout";}
+    </head>
+
+<h1>Eldritchpet</h1>
+<h1>Fullness: @ViewBag.PetStats.fullness</h1>
+<h1>Energy: @ViewBag.PetStats.energy</h1>
+<h1>Meals: @ViewBag.PetStats.meals</h1>
+<h1>Happiness: @ViewBag.PetStats.happiness</h1>
+
+@{
+    if(ViewBag.PetStats.alive){
+        <form action ="/feed" method ="POST">
+            <input type="submit" value="Feed" name="button" id = 'FeedButton'>
+        </form>
+
+        <form action ="/play" method ="POST">
+            <input type="submit" value="Play" name="button">
+        </form>
+
+        <form action ="/work" method ="POST">
+            <input type="submit" value="Work" name="button">
+        </form>
+
+        <form action ="/sleep" method ="POST">
+            <input type="submit" value="Sleep" name="button">
+        </form>
+    }
+    else{
+        <form action ="/reset" method ="POST">
+            <input type="submit" value="Reset" name="button">
+        </form>        
+    }
+    <p>@ViewBag.PetStats.result</p>
+}
+
+</html>

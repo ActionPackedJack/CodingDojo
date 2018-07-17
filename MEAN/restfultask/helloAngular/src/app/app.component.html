@@ -8,7 +8,15 @@
 <h2>Here are your tasks:</h2>
 <p *ngFor ="let task of tasks">{{task.title}} <button (click)= "viewTask(task._id)">Show details</button></p>
 
-<!-- <div *ngIf="chosentask!=undefined"> -->
-  <h2>{{chosentask.data.title}}</h2>
-  <p>{{chosentask.data.description}}</p>
-<!-- </div> -->
+<div *ngIf="chosentask!=undefined">
+  <h2>{{chosentask.title}}</h2>
+  <p>{{taskDescription}}</p>
+</div>
+
+<h3>Add a new task</h3>
+<form (submit)="onSubmit()">
+  <p> {{ newTask | json }} </p>
+  <input type="text" name="newTask.title" [(ngModel)]="newTask.title" />
+  <input type="text" name="newTask.description" [(ngModel)]="newTask.description" />
+  <input type="submit" value="Create Task">
+</form>

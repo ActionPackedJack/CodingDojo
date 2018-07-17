@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Quoting Dojo</title>
+</head>
+<body>
+    <h1>Welcome to Quoting Dojo!</h1>
+    <form method = "POST" action="/add">
+        Your name: <input type= "text", name= "name"><br>
+        Your quote: <input type= "text", name= "quote"><br>
+        <input type="submit" value="Quote me on this!">
+    </form>
+    <% if(messages.registration) { %>
+        <% for (var x of messages.registration) { %>
+         <h3><%= x %></h3>
+        <% } %>
+    <% } %>
+    <a href= "/quotes"><input value="I like to listen more than I like to talk." type= "submit"> </a>
+</body>
+</html>

@@ -7,13 +7,15 @@ import { HttpService } from './http.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
+  newTask: any;
   tasks = [];
   taskTitle= "";
   taskDescription= "";
   chosentask= null;
   constructor(private _httpService: HttpService){}
   ngOnInit(){
-  //   this.getTasksFromService();
+    this.newTask = { title: "", description: "" }
+     this.getTasksFromService();
    }
   viewTask(id){
     console.log(id);

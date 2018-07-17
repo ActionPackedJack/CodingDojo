@@ -21,4 +21,8 @@ export class HttpService {
    console.log(id);
    return this._http.get('/task/'+id)
  }
+ addTask(newtask){
+   console.log(newtask);
+  return this._http.post('/new/:title/:description/:completed', newtask)
+}
 } 

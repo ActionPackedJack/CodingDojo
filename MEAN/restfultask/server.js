@@ -27,7 +27,7 @@ app.get('/tasks/', function(req, res){
         }
     })
 })
-app.get('/new/:title/:description/:completed', function(req,res){
+app.post('/new/:title/:description/:completed', function(req,res){
     console.log("ADDING NEW TASK...")
     var newtask= new tasks({
         title: req.params.title,

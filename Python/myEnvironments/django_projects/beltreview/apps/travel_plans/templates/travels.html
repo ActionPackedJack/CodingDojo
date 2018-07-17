@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Travel Dashboard</title>
+</head>
+<body>
+    <h1>Hello, {{User.first_name}}</h1>
+    <table>
+        {%for travel in travels |creator:{{User.id}}%}
+        <a href="/destinations/{{travel.id}}">{{travel.destination}}</a>
+        {{travel.description}}
+        {{travel.travel_from}}
+        {{travel.travel_to}}
+    {%endfor%}
+    </table>
+    <table>
+        {%for travel in travels%}
+        {{travel.creator}}
+        <a href="/destinations/{{travel.id}}">{{travel.destination}}</a>
+        {{travel.description}}
+        {{travel.travel_from}}
+        {{travel.travel_to}}
+        <a href=
+        {%endfor%}
+    </table>
+</body>
+</html>

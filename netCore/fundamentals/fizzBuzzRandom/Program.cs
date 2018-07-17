@@ -22,6 +22,6 @@ namespace fizzbuzz
                      Console.WriteLine(i);
                  }
             }
+        }
     }
-}
 }

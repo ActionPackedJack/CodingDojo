@@ -1,0 +1,14 @@
+@model UserDashboard.Models.LoginVM
+
+<h1>Login</h1>
+
+<form asp-controller="UserDashboard" asp-controller="loginPost">
+    <p>Email: <input asp-for="email"></span> </p>
+    <span asp-validation-for="email">
+    
+
+    <p>Password:<input asp-for="password"></span></p>
+    <span asp-validation-for="password">
+
+    <input type="submit" value "login">
+</form>

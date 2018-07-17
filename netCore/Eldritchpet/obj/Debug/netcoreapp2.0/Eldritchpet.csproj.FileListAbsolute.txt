@@ -1,0 +1,11 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/bin/Debug/netcoreapp2.0/Eldritchpet.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/bin/Debug/netcoreapp2.0/Eldritchpet.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/bin/Debug/netcoreapp2.0/Eldritchpet.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/bin/Debug/netcoreapp2.0/Eldritchpet.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/bin/Debug/netcoreapp2.0/Eldritchpet.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/obj/Debug/netcoreapp2.0/Eldritchpet.csprojResolveAssemblyReference.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/obj/Debug/netcoreapp2.0/Eldritchpet.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/obj/Debug/netcoreapp2.0/Eldritchpet.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/obj/Debug/netcoreapp2.0/Eldritchpet.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/obj/Debug/netcoreapp2.0/Eldritchpet.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Eldritchpet/obj/Debug/netcoreapp2.0/Eldritchpet.pdb

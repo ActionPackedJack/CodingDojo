@@ -1,0 +1,11 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/bin/Debug/netcoreapp2.0/Ecommerce.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/bin/Debug/netcoreapp2.0/Ecommerce.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/bin/Debug/netcoreapp2.0/Ecommerce.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/bin/Debug/netcoreapp2.0/Ecommerce.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/bin/Debug/netcoreapp2.0/Ecommerce.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/obj/Debug/netcoreapp2.0/Ecommerce.csprojResolveAssemblyReference.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/obj/Debug/netcoreapp2.0/Ecommerce.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/obj/Debug/netcoreapp2.0/Ecommerce.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/obj/Debug/netcoreapp2.0/Ecommerce.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/obj/Debug/netcoreapp2.0/Ecommerce.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Ecommerce/obj/Debug/netcoreapp2.0/Ecommerce.pdb

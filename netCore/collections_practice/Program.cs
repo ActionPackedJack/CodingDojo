@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+    using System.Collections.Generic;
 
 namespace collections_practice
 {
@@ -7,7 +7,7 @@ namespace collections_practice
     {
         static void Main(string[] args)
         {
-            int[]numArray={
+            int[]numArray={ 
                 0,
                 1,
                 2,

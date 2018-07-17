@@ -1,0 +1,26 @@
+@model WeddingPlanner.Models.Wedding
+<h1>Welcome, @ViewBag.Greeting</h1>
+<table>
+    <thead>
+        <th>Couple</th>
+        <th>Date</th>
+        <th>Guest Count</th>
+        <th>Action</th>
+    </thead>
+    @foreach(var wedding in ViewBag.wed){
+        <tr>
+            <td><a href="/show/@wedding.Id">@wedding.spouse1 and @wedding.spouse2</a></td>
+            <td>@wedding.when</td>
+            <td>@wedding.guests.Count</td>
+            <td><a href="rsvp/@wedding.Id">RSVP</a></td>
+        </tr>
+    }
+</table>
+
+<h2>Add a wedding:</h2>
+<form method="POST" action="/Add">
+    Lucky Person:<input asp-for="spouse1"><br>
+    Better Half:<input asp-for="spouse2"><br>
+    Date: <input asp-for="when" type="date"><br>
+    <input type="submit">
+</form>

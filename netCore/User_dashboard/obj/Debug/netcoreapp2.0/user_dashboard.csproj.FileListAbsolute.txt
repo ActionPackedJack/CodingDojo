@@ -1,0 +1,4 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/User_dashboard/obj/Debug/netcoreapp2.0/user_dashboard.csprojResolveAssemblyReference.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/User_dashboard/obj/Debug/netcoreapp2.0/user_dashboard.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/User_dashboard/obj/Debug/netcoreapp2.0/user_dashboard.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/User_dashboard/obj/Debug/netcoreapp2.0/user_dashboard.AssemblyInfo.cs

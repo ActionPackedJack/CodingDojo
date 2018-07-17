@@ -1,0 +1,11 @@
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/bin/Debug/netcoreapp2.0/Creepypet.deps.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/bin/Debug/netcoreapp2.0/Creepypet.runtimeconfig.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/bin/Debug/netcoreapp2.0/Creepypet.runtimeconfig.dev.json
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/bin/Debug/netcoreapp2.0/Creepypet.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/bin/Debug/netcoreapp2.0/Creepypet.pdb
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/obj/Debug/netcoreapp2.0/Creepypet.csprojResolveAssemblyReference.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/obj/Debug/netcoreapp2.0/Creepypet.csproj.CoreCompileInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/obj/Debug/netcoreapp2.0/Creepypet.AssemblyInfoInputs.cache
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/obj/Debug/netcoreapp2.0/Creepypet.AssemblyInfo.cs
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/obj/Debug/netcoreapp2.0/Creepypet.dll
+/Users/ActionJack/Desktop/CodingDojo/netCore/Creepypet/obj/Debug/netcoreapp2.0/Creepypet.pdb
